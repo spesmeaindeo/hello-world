@@ -10,4 +10,4 @@ Lab: GitHub Tutorial_Jenn_Dewhirst
 
 [https://github.com/spesmeaindeo/hello-world.git]
 
-https://dev.to/documatic/top-6-php-code-quality-tools-2023-2kb1#:~:text=PHP_CodeSniffer%20is%20a%20widely%2Dused,violations%20and%20recommendations%20for%20improvement.
+[https://dev.to/documatic/top-6-php-code-quality-tools-2023-2kb1#:~:text=PHP_CodeSniffer%20is%20a%20widely%2Dused,violations%20and%20recommendations%20for%20improvement.]
