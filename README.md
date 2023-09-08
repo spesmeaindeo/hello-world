@@ -20,4 +20,18 @@ Some of the ket reasons of why quality code tools can be important is for assist
 
 [https://phptherightway.com/]
 
+Code Style Guide and Best Practices.
+
+Coding best practices and examples according to statements, operators, quotes, strings, variables and syntaxs plus more.
+
+Explains how code should be clean, conscise and efficient while following a standard so that code is constant in every form of use.
+
+Use of common design patterns within framework.
+
+To be careful, detailed and consistent when working with utf-8.
+
+Using proper security practices and debugging for a safe and efficient workspace.
+
+Regular testing of code.
+
 [https://www.geeksforgeeks.org/php-coding-standards/]
