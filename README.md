@@ -43,3 +43,13 @@ Consistent and familiar code used for efficiency of software within the industry
 Clarity of understanding.
 
 Offers standard codes for php to help with coding standards being followed/referenced.
+
+# Compare checklists across the articles and incorporate the best points from the different checklists 
+
+All checklists/key points have the common instruction to be consistent and clear when using code. 
+
+Familiarity in code will help in obtaining best practices, clean code and efficiency that any developer can follow and understand.
+
+Testing and debugging are important in best practices as this will ensure efficiency, functionality, familiarity and security.
+
+## Self-Evaluation of work
