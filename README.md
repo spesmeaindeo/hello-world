@@ -35,3 +35,11 @@ Using proper security practices and debugging for a safe and efficient workspace
 Regular testing of code.
 
 [https://www.geeksforgeeks.org/php-coding-standards/]
+
+Following a basic and common coding practice so it is easier for other developers to understand the code as well as yourself.
+
+Consistent and familiar code used for efficiency of software within the industry standards.
+
+Clarity of understanding.
+
+Offers standard codes for php to help with coding standards being followed/referenced.
