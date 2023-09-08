@@ -53,3 +53,5 @@ Familiarity in code will help in obtaining best practices, clean code and effici
 Testing and debugging are important in best practices as this will ensure efficiency, functionality, familiarity and security.
 
 ## Self-Evaluation of work
+
+3- Spent significant time reading and tryiog to find all the key points surrounding what makes quality code. While one article doesn't dive fully into the quality checklist, it covers how proper codes should start and be used for quality rendering with a large array of key examples. This will help in consistency and efficiency as well as familiarity. These I feel are noteable key points surrounding PHP quality starter code. It helps with all developers understanding the standards. 
